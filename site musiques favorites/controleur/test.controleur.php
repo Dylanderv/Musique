@@ -1,6 +1,6 @@
 <p> bbb </p>
 <?
-echo('bbb');
+echo('ccc');
 require_once("../Database.class.php");
 echo('aaaaa');
 $test = new Database();
