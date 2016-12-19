@@ -5,6 +5,10 @@
     text-align: center;
     color: red;
 }
+h5
+{
+    color:rgb(255, 255, 255);
+}
 body
 {
     background-image: url("../images/galaxie.jpeg");
