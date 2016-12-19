@@ -1,4 +1,4 @@
-<p> bbb </p>
+<p> ccc </p>
 <?
 echo('ccc');
 require_once("../Database.class.php");
