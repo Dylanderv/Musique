@@ -2,9 +2,9 @@
 <?
 echo('bbb');
 require_once("../Database.class.php");
-echo 'aaaaa';
+echo('aaaaa');
 $test = new Database();
-echo 'aaaaa';
+echo('aaaaa');
 var_dump($test->getDb());
 echo 'aaaaa';
 ?>
