@@ -1,0 +1,163 @@
+.tevinprofil:visited
+
+{
+
+    color:rgb(255, 79, 0);
+
+}
+ 
+
+.tevinprofil, .dylanprofil
+
+{
+
+    font-size: 5.0em;
+
+}
+
+
+.tevinprofil:hover
+
+{
+
+    color:rgb(34, 200, 0);
+
+}
+
+.dylanprofil:visited,
+
+{
+
+    color:rgb(255, 0, 199);
+
+}
+
+.dylanprofil:hover
+
+{
+
+    color:rgb(0, 3, 255);
+
+}
+
+.p1
+
+{
+
+    color: rgb(255, 255, 255);
+
+    font-size: 2.0em;
+
+}
+
+.tevinprofil
+
+{
+
+    font-size: 5.0em;
+
+}
+
+a:visited
+
+{
+
+    color:rgb(255, 79, 0);
+
+}
+
+a:hover
+
+{
+
+    color:rgb(34, 200, 0);
+
+}
+
+.bprofil:hover
+
+{
+
+    color:rgb(0, 255, 218);
+
+}
+
+.iprofil:hover
+
+{
+
+    color:rgb(228, 255, 0);
+
+}
+
+.eprofil:hover
+
+{
+
+    color:rgb(242, 0, 255);
+
+}
+
+.nprofil:hover
+
+{
+
+    color:rgb(13, 0, 255);
+
+}
+
+.vprofil:hover
+
+{
+
+    color:rgb(255, 168, 0);
+
+}
+
+.eeprofil:hover
+
+{
+
+    color:rgb(255, 0, 115);
+
+}
+
+.nnprofil:hover
+
+{
+
+    color:rgb(99, 52, 9);
+
+}
+
+.uprofil:hover
+
+{
+
+    color:rgb(3, 73, 44);
+
+}
+
+.eeeprofil:hover
+
+{
+
+    color:rgb(80, 3, 5);
+
+}
+
+.exprofil:hover
+
+{
+
+    color:rgb(0, 0, 0)
+
+}
+
+.h3:hover
+
+{
+
+    color:rgb(255, 0, 0);
+
+}
