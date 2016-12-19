@@ -2,7 +2,6 @@
 <?
 echo('aaa');
 require_once("../Database.class.php");
-dfgfdgfd
 echo 'aaaaa';
 $test = new Database();
 echo 'aaaaa';
