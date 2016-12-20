@@ -5,6 +5,10 @@
     text-align: center;
     color: red;
 }
+.bleufonce
+{
+    width: 20%;
+}
 h5
 {
     color:rgb(255, 255, 255);
@@ -12,6 +16,13 @@ h5
 body
 {
     background-image: url("../images/galaxie.jpeg");
+}
+bod
+{
+    background-image: url(images/bleufonce.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top left;
 }
 .h3
 {
