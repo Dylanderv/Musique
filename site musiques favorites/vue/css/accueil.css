@@ -13,6 +13,11 @@ h5
 {
     color:rgb(255, 255, 255);
 }
+mark
+{
+    background-color:rgb(255, 0, 0);
+    color:rgb(0, 0, 0);
+}
 body
 {
     background-image: url("../images/galaxie.jpeg");
